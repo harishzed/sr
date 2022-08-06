@@ -18,9 +18,9 @@ include('autoheader.php')
 					<hr class="bg-primary border-radius m-auto">
 				</div>
 				<div class="overflow-hidden mb-1">
-					<h3 class="font-weight-semi-bold text-color-grey text-uppercase positive-ls-3 text-4 line-height-2 line-height-sm-7 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="100"> CAREERS     </h3>
+					<h3 class="font-weight-semi-bold text-color-grey text-uppercase positive-ls-3 text-4 line-height-2 line-height-sm-7 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="100">CEO/FOUNDER  </h3>
 				</div>
-				<h2 class="text-color-dark font-weight-bold text-8 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">We're Looking for Rockstar</h2>
+				<h2 class="text-color-dark font-weight-bold text-8 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Small Description Goes Here.</h2>
 
 			</div>
 		</div>
@@ -29,87 +29,39 @@ include('autoheader.php')
 
 				
 
-				
-					<div class="container py-4">
+        <div class="container py-4">
 
-						<div class="row pb-4">
-							<div class="col-md-8">
-								<div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="200">
-									<!-- <h4 class="mt-2 mb-2">Current <strong>Openings</strong></h4> -->
-
-									<div class="accordion accordion-modern accordion-modern-grey-scale-1 without-bg mt-4" id="accordion11">
-										<div class="card card-default mb-2">
-											<div class="card-header">
-												<h4 class="card-title m-0">
-													<a class="accordion-toggle text-3" data-bs-toggle="collapse" data-bs-parent="#accordion11" href="#collapse11One">
-														Sales Executive-Voice
-													</a>
-												</h4>
-											</div>
-											<div id="collapse11One" class="collapse show">
-												<div class="card-body mt-3">
-													<p>Suspendisse potenti. Curabitur euismod facilisis neque, eu malesuada diam finibus non. Nullam nec vehicula leo. Morbi porta ante eu feugiat mollis ellus blandit massa enim. Nullam id varius nunc ellus blandit massa enim. Nullam id varius nunc.</p>
-													<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc. Vivamus bibendum magna ex, et faucibus lacus venenatis eget.</p>
-
-													<ul class="list list-inline mt-4 mb-3 text-2">
-														<li class="list-inline-item">
-															<strong>LOCATION:</strong>
-															NEW YORK
-														</li>
-														<li class="list-inline-item ms-md-3">
-															<strong>QUALIFICATION:</strong>
-															3+ YEARS EXPERIENCE, GRADUATION
-														</li>
-													</ul>
-
-													<a href="#" class="btn btn-modern btn-dark">Apply</a>
-												</div>
-											</div>
-										</div>
-										
-										
-										
-										
-									</div>
-								</div>
-
-							</div>
-							<div class="col-md-4">
-								<div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="400">
-									<div class="owl-carousel owl-theme dots-inside mb-0 pb-0" data-plugin-options="{'items': 1, 'autoplay': true, 'autoplayTimeout': 4000, 'margin': 10, 'animateOut': 'fadeOut', 'dots': false}">
-										<div class="pb-5">
-											<img alt="" class="img-fluid rounded" src="img/generic/office.jpg">
-										</div>
-										<div class="pb-5">
-											<img alt="" class="img-fluid rounded" src="img/generic/office2.jpg">
-										</div>
-									</div>
-
-									<div class="toggle toggle-primary toggle-simple" data-plugin-toggle>
-										<section class="toggle active">
-											<a class="toggle-title">Our Benefits</a>
-											<div class="toggle-content">
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet.</p>
-											</div>
-										</section>
-										<section class="toggle">
-											<a class="toggle-title">Our Culture</a>
-											<div class="toggle-content">
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus. Nullam tortor nunc, bibendum vitae semper a, volutpat eget massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fringilla, orci sit amet posuere auctor.</p>
-											</div>
-										</section>
-										<section class="toggle">
-											<a class="toggle-title">Join Our Team</a>
-											<div class="toggle-content">
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus. Nullam tortor nunc, bibendum vitae semper a, volutpat eget massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fringilla, orci sit amet posuere auctor, orci eros pellentesque odio, nec pellentesque erat ligula nec massa. Aenean consequat lorem ut felis ullamcorper posuere gravida tellus faucibus. Maecenas dolor elit, pulvinar eu vehicula eu, consequat et lacus. Duis et purus ipsum. In auctor mattis ipsum id molestie. Donec risus nulla, fringilla a rhoncus vitae, semper a massa. Vivamus ullamcorper, enim sit amet consequat laoreet, tortor tortor dictum urna, ut egestas urna ipsum nec libero. Nulla justo leo, molestie vel tempor nec, egestas at massa. Aenean pulvinar, felis porttitor iaculis pulvinar, odio orci sodales odio, ac pulvinar felis quam sit.</p>
-											</div>
-										</section>
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
+<div class="row">
+    <div class="col-md-7 order-2">
+        <div class="overflow-hidden">
+            <h2 class="text-color-dark font-weight-bold text-8 mb-0 pt-0 mt-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="300">KANNAN PALANIYAPPAN</h2>
+        </div>
+        <div class="overflow-hidden mb-3">
+            <p class="font-weight-bold text-primary text-uppercase mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="500">CEO/FOUNDER</p>
+        </div>
+        <p class="lead appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam <a href="#">vehicula</a> sit amet enim ac sagittis. Curabitur eget leo varius, elementum mauris eget, egestas quam. Donec ante risus, dapibus sed lectus non, lacinia vestibulum nisi. Morbi vitae augue quam. Nullam ac laoreet libero.</p>
+        <p class="pb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Consectetur adipiscing elit. Aliquam iaculis sit amet enim ac sagittis. Curabitur eget leo varius, elementum mauris eget, egestas quam.</p>
+        <hr class="solid my-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
+        <div class="row align-items-center appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
+            <div class="col-lg-6">
+                <a href="#" class="btn btn-modern btn-dark mt-3">Get In Touch</a>
+                <a href="#" class="btn btn-modern btn-primary mt-3">Hire Me</a>
+            </div>
+            <div class="col-sm-6 text-lg-end my-4 my-lg-0">
+                <strong class="text-uppercase text-1 me-3 text-dark">follow me</strong>
+                <ul class="social-icons float-lg-end">
+                    <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                    <li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                    <li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation" data-appear-animation="fadeInRightShorter">
+        <img src="img/team/team-1.jpg" class="img-fluid" alt="">
+    </div>
+</div>
+</div>
 			
 
 

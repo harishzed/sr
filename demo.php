@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<?php
-    @include('dh.php')
+    @include('autoheader.php')
     ?>
 
 			<div role="main" class="main">
@@ -241,49 +241,7 @@
 
 
             
-				<div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
-					<div class="home-concept mt-5">
-						<div class="container">
-
-							<div class="row text-center">
-								<span class="sun"></span>
-								<span class="cloud"></span>
-								<div class="col-lg-2 ms-lg-auto">
-									<div class="process-image">
-										<img src="img/home/home-concept-item-1.png" alt="" />
-										<strong>Strategy</strong>
-									</div>
-								</div>
-								<div class="col-lg-2">
-									<div class="process-image process-image-on-middle">
-										<img src="img/home/home-concept-item-2.png" alt="" />
-										<strong>Planning</strong>
-									</div>
-								</div>
-								<div class="col-lg-2">
-									<div class="process-image">
-										<img src="img/home/home-concept-item-3.png" alt="" />
-										<strong>Build</strong>
-									</div>
-								</div>
-								<div class="col-lg-4 ms-lg-auto">
-									<div class="project-image">
-										<div id="fcSlideshow" class="fc-slideshow">
-											<ul class="fc-slides">
-												<li><a href="portfolio-single-wide-slider.html"><img class="img-fluid" src="img/projects/project-home-1.jpg" alt="" /></a></li>
-												<li><a href="portfolio-single-wide-slider.html"><img class="img-fluid" src="img/projects/project-home-2.jpg" alt="" /></a></li>
-												<li><a href="portfolio-single-wide-slider.html"><img class="img-fluid" src="img/projects/project-home-3.jpg" alt="" /></a></li>
-											</ul>
-										</div>
-										<strong class="our-work">Our Work</strong>
-									</div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-				</div>
-
+			
 
 
 
@@ -607,92 +565,6 @@
     </div>
 </div>
 </div>
-
-
-
-
-
-
-<section class="section border-0 bg-transparent m-0" id="start">
-					<div class="container py-5 mb-3">
-						<div class="row">
-							<div class="col text-center">
-
-								<div class="divider divider-small divider-small-lg mt-0 text-center appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-									<hr class="bg-primary border-radius m-auto">
-								</div>
-								<div class="overflow-hidden mb-1">
-									<h3 class="font-weight-semi-bold text-color-grey text-uppercase positive-ls-3 text-4 line-height-2 line-height-sm-7 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="100">Our Mission</h3>
-								</div>
-								<h2 class="text-color-dark font-weight-bold text-8 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">We are committed to providing our clients the best<br>strategic guidance available</h2>
-
-							</div>
-						</div>
-						<div class="row pt-4 pb-5">
-							<div class="col-lg-6 text-center p-relative pt-5">
-
-								<div class="appear-animation custom-element-wrapper custom-element-9" data-appear-animation="expandIn" data-appear-animation-delay="1000">
-									<div class="bg-color-primary particle particle-dots w-100 h-100 opacity-3"></div>	
-								</div>
-
-								<div class="appear-animation custom-element-wrapper custom-element-10" data-appear-animation="expandIn" data-appear-animation-delay="1200">
-									<div class="bg-color-primary particle particle-dots w-100 h-100 opacity-3"></div>	
-								</div>
-
-								<div class="appear-animation custom-element-wrapper custom-element-11 p-relative rotate-r-45" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-									<img class="img-fluid" src="img/demos/business-consulting-4/generic/generic-6.jpg" alt="">
-								</div>
-
-							</div>
-							<div class="col-lg-6 pt-5 mt-5 pt-lg-0 mt-lg-0">
-								<div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-									<p class="font-weight-medium text-4-5 line-height-5">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-									<p class="text-3-5">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet.</p>
-
-									<ul class="list list-icons list-icons-style-2 list-icons-lg">
-										<li class="line-height-9 text-3-5 mb-1">
-											<i class="fas fa-check border-width-2 text-3"></i>Amet orci quis arcu vestibulum vestibulum.
-										</li>
-										<li class="line-height-9 text-3-5 mb-1">
-											<i class="fas fa-check border-width-2 text-3"></i>Quis arcu vestibulum vestibulum.
-										</li>
-										<li class="line-height-9 text-3-5 mb-1">
-											<i class="fas fa-check border-width-2 text-3"></i>Sit amet orci quis arcu.
-										</li>
-									</ul>
-								</div>
-
-								<div class="d-block pt-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
-									<a href="demo-business-consulting-4-about-us.html" class="btn btn-modern btn-primary btn-arrow-effect-1 text-capitalize text-2-5 px-5 py-3 anim-hover-translate-top-5px transition-2ms">Learn More <i class="fas fa-arrow-right ms-2"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
